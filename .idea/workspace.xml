@@ -30,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="247">
+              <caret line="53" column="35" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -39,8 +39,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+            <state relative-caret-position="406">
+              <caret line="185" column="25" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -54,6 +54,11 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>faild</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548865998094</updated>
       <workItem from="1548865999532" duration="16206000" />
-      <workItem from="1549183374703" duration="11099000" />
+      <workItem from="1549183374703" duration="11193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27305000" />
+    <option name="totallyTimeSpent" value="27399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,15 +275,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="247">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+        <state relative-caret-position="406">
+          <caret line="185" column="25" selection-start-line="185" selection-start-column="25" selection-end-line="185" selection-end-column="25" />
         </state>
       </provider>
     </entry>
