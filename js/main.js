@@ -1,0 +1,1 @@
+$(document).ready(function () {    var username = $('#username').val();    var password = $('#password').val();    $('#btnLogin').click(function () {        if (username == "mhmd" && password == "12345678") {            location.href = "/details";        }        else {            $('#message').css("visibility", "visible")        }    });});
